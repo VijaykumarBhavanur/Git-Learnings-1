@@ -1,1 +1,1 @@
-# Git-Learnings-1
+This project demonstrates auto-readme & gitignore files
